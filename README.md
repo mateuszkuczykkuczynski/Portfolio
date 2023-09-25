@@ -7,3 +7,6 @@ More info/ updates soon!
 
 28.08.2023 Update
 React app is successfully initialize and first couple components were added. Still working on properly structure and setup whole project/repository.
+
+25.09.2023 Update
+Base project structure (including components) are done. Now working more on styling and populate website with text.

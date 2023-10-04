@@ -1,11 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import AboutMe from './components/AboutMe.js'
+import BackToTopButton from './components/BackToTopButton.js'
+import Contact from './components/Contact.js'
+import ContactForm from './components/ContactForm.js'
+import CoursesCertifications from './components/CoursesCertifications.js'
+import ExperienceTimeline from './components/ExperienceTimeline.js'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>

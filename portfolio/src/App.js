@@ -6,6 +6,11 @@ import Contact from './components/Contact.js'
 import ContactForm from './components/ContactForm.js'
 import CoursesCertifications from './components/CoursesCertifications.js'
 import ExperienceTimeline from './components/ExperienceTimeline.js'
+import Footer from './components/Footer.js'
+import Header from './components/Header.js'
+import LanguageSwitcher from './components/LanguageSwitcher.js'
+import LightDarkToggle from './components/LightDarkToggle.js'
+
 
 function App() {
   return (

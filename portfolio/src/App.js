@@ -10,7 +10,13 @@ import {
   Footer,
   Header,
   LanguageSwitcher,
-  LightDarkToggle
+  LightDarkToggle,
+  Navbar,
+  Projects,
+  Resume,
+  Skills,
+  Socials,
+  Works,
 } from './components';
 
 

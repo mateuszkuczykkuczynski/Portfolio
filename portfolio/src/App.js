@@ -1,15 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import AboutMe from './components/AboutMe.js'
-import BackToTopButton from './components/BackToTopButton.js'
-import Contact from './components/Contact.js'
-import ContactForm from './components/ContactForm.js'
-import CoursesCertifications from './components/CoursesCertifications.js'
-import ExperienceTimeline from './components/ExperienceTimeline.js'
-import Footer from './components/Footer.js'
-import Header from './components/Header.js'
-import LanguageSwitcher from './components/LanguageSwitcher.js'
-import LightDarkToggle from './components/LightDarkToggle.js'
+import {
+  AboutMe,
+  BackToTopButton,
+  Contact,
+  ContactForm,
+  CoursesCertifications,
+  ExperienceTimeline,
+  Footer,
+  Header,
+  LanguageSwitcher,
+  LightDarkToggle
+} from './components';
 
 
 function App() {

@@ -10,3 +10,6 @@ React app is successfully initialize and first couple components were added. Sti
 
 25.09.2023 Update
 Base project structure (including components) are done. Now working more on styling and populate website with text.
+
+31.10.2023 Update
+Due to time constraints and commitments to another project, I must pause work on this one. The goal is to conclude this project by the third quarter of 2024.

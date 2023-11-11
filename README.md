@@ -13,3 +13,5 @@ Base project structure (including components) are done. Now working more on styl
 
 31.10.2023 Update
 Due to time constraints and commitments to another project, I must pause work on this one. The goal is to conclude this project by the third quarter of 2024.
+
+11.11.2023 -> In free time i will try my best make some more progress on this project. 
